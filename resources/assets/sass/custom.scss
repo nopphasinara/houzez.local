@@ -1,0 +1,13 @@
+// compileCompressed: ../../../public/css/$1.css
+
+@import "../bootstrap/scss/bootstrap.scss";
+
+.footer-bottom {
+  .foot-social {
+    p {
+      a {
+        font-size: $h1-font-size;
+      }
+    }
+  }
+}
