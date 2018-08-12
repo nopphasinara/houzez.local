@@ -2,6 +2,25 @@
 
 @import "../bootstrap/scss/bootstrap.scss";
 
+#header-section {
+  .header-left {
+    .logo {
+      img {
+        width: auto;
+        height: 80px;
+      }
+    }
+  }
+}
+
+.header-mobile {
+  .header-logo {
+    img {
+      max-height: 48px;
+    }
+  }
+}
+
 .footer-bottom {
   .foot-social {
     p {
@@ -10,4 +29,8 @@
       }
     }
   }
+}
+
+#section-body {
+  padding-bottom: 0;
 }
