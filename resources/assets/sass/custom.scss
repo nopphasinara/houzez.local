@@ -29,6 +29,16 @@
       }
     }
   }
+
+  .footer-col {
+    .navi {
+      float: right;
+
+      @include media-breakpoint-down(md) {
+        float: none;
+      }
+    }
+  }
 }
 
 #section-body {

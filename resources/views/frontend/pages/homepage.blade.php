@@ -1733,7 +1733,7 @@
     <div class="footer-bottom">
       <div class="container">
         <div class="row">
-          <div class="col-md-3 col-sm-3">
+          <div class="col-md-6 col-sm-6">
             <div class="footer-col">
               <p>Houzez - All rights reserved</p>
             </div>
@@ -1747,22 +1747,6 @@
                   <li><a href="contact-us.html">Contact</a></li>
                 </ul>
               </div>
-            </div>
-          </div>
-          <div class="col-md-3 col-sm-3">
-            <div class="footer-col foot-social">
-              <p>
-                Follow us
-                <a target="_blank" class="btn-facebook" href="https://facebook.com/Favethemes"><i class="fa fa-facebook-square"></i></a>
-
-                <a target="_blank" class="btn-twitter" href="https://twitter.com/favethemes"><i class="fa fa-twitter-square"></i></a>
-
-                <a target="_blank" class="btn-linkedin" href="http://linkedin.com"><i class="fa fa-linkedin-square"></i></a>
-
-                <a target="_blank" class="btn-google-plus" href="http://google.com"><i class="fa fa-google-plus-square"></i></a>
-
-                <a target="_blank" class="btn-instagram" href="http://instagram.com"><i class="fa fa-instagram"></i></a>
-              </p>
             </div>
           </div>
         </div>

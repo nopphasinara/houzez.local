@@ -3,4 +3,4 @@
  * Copyright 2011-2018 The Bootstrap Authors
  * Copyright 2011-2018 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */#header-section .header-left .logo img{width:auto;height:80px}.header-mobile .header-logo img{max-height:48px}.footer-bottom .foot-social p a{font-size:2.5rem}#section-body{padding-bottom:0}
+ */#header-section .header-left .logo img{width:auto;height:80px}.header-mobile .header-logo img{max-height:48px}.footer-bottom .foot-social p a{font-size:2.5rem}.footer-bottom .footer-col .navi{float:right}@media (max-width: 991.98px){.footer-bottom .footer-col .navi{float:none}}#section-body{padding-bottom:0}
